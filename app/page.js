@@ -1,4 +1,6 @@
 // app/page.js
+// name: angus tsang
+// utorid: tsanga18
 export default function Home() {
   return (
     <div className="w-[1769px] h-[1151px] relative bg-gradient-to-b from-[#db4439] to-[#75241e] overflow-hidden">
@@ -8,7 +10,7 @@ export default function Home() {
       </div>
       <div className="origin-top-left rotate-[-8.64deg] w-[543px] h-[500.40px] left-[1068.69px] top-[226px] absolute">
         {/* <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9]" /> */}
-        <img className="w-[630.99px] h-[600.71px] left-[81.51px] top-[-105.62px] absolute" src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D" />
+        <img className="w-[630.99px] h-[750.71px] left-[81.51px] top-[0px] absolute" src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D" />
       </div>
       <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">BlaBla <br/>Coffe!</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">Your NO.1 Choice</div>
